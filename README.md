@@ -10,6 +10,7 @@ Thank you for coming to today's workshop!
 ## Documentation
 - [GitHub](https://docs.github.com/en) has thorough documentation and a handy [cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf).
 - [Git](https://git-scm.com/book/en/v2) has documentation in the form of an eBook.
+- [GitHub CheatSheet](https://wizardzines.com/git-cheat-sheet.pdf) is a helpful cheat sheet for command-line Git from [Julia Evans](https://jvns.ca/).
 
 ## GitHub Desktop
 - [GitHub Desktop Documentation](https://docs.github.com/en/desktop) is the official documentation for GitHub Desktop.
